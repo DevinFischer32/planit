@@ -1,0 +1,73 @@
+[
+  {
+    "weekId": "24",
+    "monday": [
+      {
+        "todo": [
+          {
+            "id": 1,
+            "message": "I love json",
+            "prioirtiy": "1",
+            "completed": "false"
+          },
+          {
+            "id": 2,
+            "message": "IS this working",
+            "prioirtiy": "3",
+            "completed": "false"
+          }
+        ],
+        "goals": [
+          {
+            "goalId": "1",
+            "message": "Finish this"
+          }
+        ]
+      }
+    ],
+    "tuesday": {
+      "todo": [{}],
+      "goals": [{}]
+    },
+    "wednesday": [
+      {
+        "todo": [
+          {
+            "id": 1,
+            "message": "I love json",
+            "prioirtiy": "1",
+            "completed": "false"
+          },
+          {
+            "id": 2,
+            "message": "IS this working",
+            "prioirtiy": "3",
+            "completed": "false"
+          }
+        ],
+        "goals": [
+          {
+            "goalId": "1",
+            "message": "Finish this"
+          }
+        ]
+      }
+    ],
+    "thrusday": {
+      "todo": [{}],
+      "goals": [{}]
+    },
+    "friday": {
+      "todo": [{}],
+      "goals": [{}]
+    },
+    "saturday": {
+      "todo": [{}],
+      "goals": [{}]
+    },
+    "sunday": {
+      "todo": [{}],
+      "goals": [{}]
+    }
+  }
+]
